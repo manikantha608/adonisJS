@@ -1,7 +1,12 @@
-What is AdonisJS?
+# What is AdonisJS?
 ->A fully featured web framework for Node js
 ->AdonisJS includes everything you need to create a fully functional web app or an API server
 ->AdonisJS is a MVC framework
 ->AdonisJS fully supports TypeScript
 ->Adonis can handle the HTTP requests,query the database ,authenticate users ,upload files ,send emails ,and do a lot more
 -> AdonisJS as similar to framework like Rails,Laravel
+
+
+# EDGE is a template engine
+
+1.create a view Route
